@@ -42,7 +42,7 @@
   <div class="container">
   <small>
         Copyright - <a class="text-reset fw-bold text-decoration-none" target="_blank"
-          href="https://twitter.com/danielgarax">Daniel Correa
+          href="https://twitter.com/danielgarax">Julian
 
           </a>
       </small>
